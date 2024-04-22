@@ -1,1 +1,36 @@
+.nav{
+    background-color: black;
+    width: px;
+    justify-content: left;
 
+}
+.nav ul{
+    list-style-type:none;
+    
+    margin: 10px;
+    padding: 0;
+    color: bisque;
+
+}
+.cont{
+    display: flex;
+    
+}
+.fun{
+    background-color:white;
+}
+.nav2 ul {
+    list-style-type:none;
+    display: flex;
+    
+
+}
+.set{
+    background-color: gray;
+}
+.nav2 ul li{
+    padding-right: 20px;
+}
+.setting{
+    display: flex;
+}
